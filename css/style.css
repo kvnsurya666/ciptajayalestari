@@ -18,10 +18,10 @@
 
 .shop-button a:hover,
 .shop-button.two a:hover {
-  background: #fff;
-  color: #000;
+  background: #0dcaf0;
+  color: #ffffff;
 }
 
 .shop-button.two a {
-  background: #0dcaf0;
+  background: #000000;
 }
