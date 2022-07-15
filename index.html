@@ -19,30 +19,33 @@
   </head>
   <body>
     <!-- Navigation-->
-    <div class="container-fluid">
-      <nav class="navbar-dark navbar-nav sticky-top bg-light">
+
+    <nav class="navbar-dark sticky-top bg-light">
+      <div class="container">
         <a class="navbar-brand" href="#">
           <img src="assets/img/logo ciptajayalestari.PNG" alt="" width="70" height="40" />
         </a>
-        <ul class="justify-content-center">
-          <li class="nav-item active">
-            <a class="nav-link" href="#">Home</a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="katalog.php" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Katalog</a>
-            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <li><a class="dropdown-item" href="#">Mesin</a></li>
-              <li><a class="dropdown-item" href="#">Aksesoris</a></li>
-              <li><a class="dropdown-item" href="#">Oli</a></li>
-              <li><a class="dropdown-item" href="#">Jasa</a></li>
-            </ul>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="tentangkami.php">Tentang Kami</a>
-          </li>
-        </ul>
-      </nav>
-    </div>
+        <button class="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">Button with data-bs-target</button>
+
+        <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
+          <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="offcanvasExampleLabel">Offcanvas</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+          </div>
+          <div class="offcanvas-body">
+            <div>Some text as placeholder. In real life you can have the elements you have chosen. Like, text, images, lists, etc.</div>
+            <div class="dropdown mt-3">
+              <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown">Dropdown button</button>
+              <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <li><a class="dropdown-item" href="#">Action</a></li>
+                <li><a class="dropdown-item" href="#">Another action</a></li>
+                <li><a class="dropdown-item" href="#">Something else here</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
 
     <!-- Masthead-->
     <div class="container-fluid">
