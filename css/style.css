@@ -7,3 +7,21 @@
   width: 90%;
   margin: 0 auto;
 }
+
+.shop-button a {
+  background: #000;
+  color: #fff;
+  padding: 0.6em 1em;
+  font-size: 0.9em;
+  letter-spacing: 1px;
+}
+
+.shop-button a:hover,
+.shop-button.two a:hover {
+  background: #fff;
+  color: #000;
+}
+
+.shop-button.two a {
+  background: #0dcaf0;
+}
