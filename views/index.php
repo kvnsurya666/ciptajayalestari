@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Landing Page - Start Bootstrap Theme</title>
+    <title>CIPTA JAYA LESTARI</title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <!-- Bootstrap icons-->
@@ -22,7 +22,29 @@
         <a class="navbar-brand" href="#">
           <img src="assets/img/logo ciptajayalestari.PNG" alt="" width="70" height="40" />
         </a>
-
+        <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">Home</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="katalog.php" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Katalog</a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li><a class="dropdown-item" href="#">Mesin</a></li>
+                <li><a class="dropdown-item" href="#">Aksesoris</a></li>
+                <li><a class="dropdown-item" href="#">Oli</a></li>
+                <li><a class="dropdown-item" href="#">Jasa</a></li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="tentangkami.php">Tentang Kami</a>
+            </li>
+          </ul>
+          <form class="d-flex" role="search">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
+            <button class="btn btn-outline-success" type="submit">Mau cari apa?</button>
+          </form>
+        </div>
         <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -39,9 +61,10 @@
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="offcanvasNavbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Katalog </a>
                 <ul class="dropdown-menu" aria-labelledby="offcanvasNavbarDropdown">
-                  <li><a class="dropdown-item" href="#">Mesin CNC Bubut</a></li>
-                  <li><a class="dropdown-item" href="#">Mesin Bubut Manual</a></li>
-                  <li><a class="dropdown-item" href="#">VERTEX TOOLS</a></li>
+                  <li><a class="dropdown-item" href="#">Mesin</a></li>
+                  <li><a class="dropdown-item" href="#">Aksesoris</a></li>
+                  <li><a class="dropdown-item" href="#">Oli</a></li>
+                  <li><a class="dropdown-item" href="#">Jasa</a></li>
                 </ul>
               </li>
               <li class="nav-item">
