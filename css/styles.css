@@ -11687,28 +11687,9 @@ footer.footer {
   padding-bottom: 4rem;
 }
 
-/* .navbar-dark .nav-item .nav-link {
-  color: #fff;
-}
-
-.navbar-dark .nav-item .nav-link:hover {
-  background-color: rgba(255, 255, 255, 0.1);
-  transition: all 0.3s ease;
-  border-radius: 0.25rem;
-  color: #fff;
-} */
-
 .fa-li {
   position: relative;
   left: 0;
 }
 
-.footer_agileinfo_w3 {
-  padding: 4em 0;
-  background-color: #0d6efd;
-}
 
-.footer_inner_info_w3ls_agileits {
-	width: 90%;
-	margin: 0 auto;
-}
