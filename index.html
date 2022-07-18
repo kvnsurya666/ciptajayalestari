@@ -17,6 +17,8 @@
     <link rel="stylesheet" href="/css/style.css" />
     <link href="/css/bootstrap.css" rel="stylesheet" />
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/assets/font-awesome/font-awesome.css" />
+    <link rel="stylesheet" href="/assets/font-awesome/font-awesome.min.css" />
   </head>
   <body>
     <!-- Navigation-->
@@ -270,5 +272,14 @@
     <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
     <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
     <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+    <script>
+      // Can also be used with $(document).ready()
+      $(document).ready(function () {
+        $(".flexslider").flexslider({
+          animation: "slide",
+          controlNav: "thumbnails",
+        });
+      });
+    </script>
   </body>
 </html>
