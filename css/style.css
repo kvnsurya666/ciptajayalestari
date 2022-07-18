@@ -29,3 +29,48 @@
 .navbar-toggler {
   color: #000000;
 }
+
+.mid_slider_w3lsagile {
+  background: linear-gradient(to bottom right, gray, rgb(247, 246, 246));
+}
+
+.mid_slider_text h5 {
+  font-size: 23px;
+  margin-top: 121px;
+  color: black;
+  letter-spacing: 1px;
+  font-weight: 700;
+  text-align: left;
+}
+
+.mid_slider_text {
+  padding: 0em 3em;
+}
+
+.mid_slider_text h5 {
+  font-size: 19px;
+  margin-top: 117px;
+}
+
+.mid_slider_text h5 {
+  font-size: 17px;
+  margin-top: 78px;
+}
+
+.mid_slider_text {
+  padding: 0em 1em;
+}
+
+.mid_slider_text {
+  padding: 2em 1em;
+}
+
+.mid_slider_text h5 {
+  font-size: 20px;
+  margin-top: 4px;
+}
+
+.mid_slider_info {
+  margin: 0 auto;
+  padding: 0;
+}
