@@ -120,3 +120,17 @@
   left: 312px;
   top: 1px;
 }
+
+.thumbnail img {
+  width: 100%;
+}
+
+.thumbnail {
+  display: block;
+  padding: 0;
+  margin-bottom: 0;
+  line-height: 1.42857143;
+  background: none;
+  border: none;
+  border-radius: 0;
+}
