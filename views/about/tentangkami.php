@@ -7,7 +7,7 @@
     <meta name="author" content="" />
     <title>CIPTA JAYA LESTARI</title>
     <!-- Favicon-->
-    <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+    <link rel="icon" type="image/x-icon" href="/assets/img/favicon.ico" />
     <!-- Bootstrap icons-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" type="text/css" />
     <!-- Google fonts-->
@@ -28,14 +28,14 @@
         <div class="row">
           <div class="col-md-1">
             <a class="navbar-brand" href="#" style="padding-top: 10px; padding-bottom: 10px">
-              <img src="assets/img/logo ciptajayalestari.PNG" alt="" width="100" height="50" />
+              <img src="/assets/img/logo ciptajayalestari.PNG" alt="" width="100" height="50" />
             </a>
           </div>
 
           <div class="col-md-11" id="navbarNav">
             <ul class="nav justify-content-center">
               <li class="nav-item">
-                <a class="nav-link active" href="#">Home</a>
+                <a class="nav-link active" href="index.html">Home</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="/views/katalog/produk.php" role="button" aria-expanded="false">Katalog</a>
