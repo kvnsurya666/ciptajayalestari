@@ -159,25 +159,27 @@
                       <h6>Layanan Pelanggan</h6>
                       <div class="phone-domain">
                         <i class="fa fa-whatsapp" aria-hidden="true"></i>
-                        <a href="tel:0313896920" class="nobor">0313896920</a><br>
+                        <a href="tel:0313896920" class="nobor">0313896920</a>
                       </div>
                     </div>
-                  </div>
+                  
+                    <div class="clearfix"></div>
+                    </div>
+                    <br>
+                    <div class="address-grid">
+                        <div class="address-right">
+                            <h6>E-mail</h6>
+                            <p><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:ciptajayalestari@gmail.com" style="color: white">ciptajayalestari@gmail.com</a></p>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="address-grid">
+                        <div class="address-right">
+                            <h6>Alamat</h6> 
+                            <p><i class="bi bi-house-door"></i>   Jalan Kenjeran 300 A/7 Surabaya, Surabaya, Jawa Timur - Jalan Kenjeran 300 A/7 Surabaya, Indonesia</p>
+                        </div>
                   <div class="clearfix"></div>
-                </div>
-                <div class="address-grid">
-                  <div class="address-right">
-                    <h6>E-mail</h6>
-                    <p><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:ciptajayalestari@gmail.com" style="color: white">ciptajayalestari@gmail.com</a></p>
-                  </div>
-                  <div class="clearfix"></div>
-                </div>
-                <div class="address-grid">
-                  <div class="address-right">
-                    <h6>Alamat</h6> 
-                    <p><i class="bi bi-house-door"></i>   Jalan Kenjeran 300 A/7 Surabaya, Surabaya, Jawa Timur - Jalan Kenjeran 300 A/7 Surabaya, Indonesia</p>
-                  </div>
-                  <div class="clearfix"></div>
+                    </div>
                 </div>
               </div>
             </div>
