@@ -81,7 +81,7 @@
     </div>
     <!-- Company Profile -->
     <section id="about">
-            <div class="container px-4">
+            <div class="container px-4" style="padding-top: 20px;">
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-8">
                         <h2>Profil Perusahaan</h2>
@@ -101,26 +101,33 @@
     <!-- Our Team Showcase -->
    <section class="testimonials text-center bg-light">
             <div class="container">
-                <h2 class="mb-5">What people are saying...</h2>
+                <h2 class="mb-5">Our Sales Team</h2>
                 <div class="row">
-                    <div class="col-lg-4">
+                    <div class="col-lg-3">
                         <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-                            <img class="img-fluid rounded-circle mb-3" src="assets/img/testimonials-1.jpg" alt="..." />
-                            <h5>Margaret E.</h5>
+                            <img class="img-fluid rounded-circle mb-3" src="/assets/img/testimonials-1.jpg" alt="Sales 1" />
+                            <h5>Sales 1</h5>
                             <p class="font-weight-light mb-0">"This is fantastic! Thanks so much guys!"</p>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-3">
                         <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-                            <img class="img-fluid rounded-circle mb-3" src="assets/img/testimonials-2.jpg" alt="..." />
-                            <h5>Fred S.</h5>
+                            <img class="img-fluid rounded-circle mb-3" src="/assets/img/testimonials-2.jpg" alt="Sales 2" />
+                            <h5>Sales 2</h5>
                             <p class="font-weight-light mb-0">"Bootstrap is amazing. I've been using it to create lots of super nice landing pages."</p>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-3">
                         <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-                            <img class="img-fluid rounded-circle mb-3" src="assets/img/testimonials-3.jpg" alt="..." />
-                            <h5>Sarah W.</h5>
+                            <img class="img-fluid rounded-circle mb-3" src="/assets/img/testimonials-3.jpg" alt="Sales 3" />
+                            <h5>Sales 3</h5>
+                            <p class="font-weight-light mb-0">"Thanks so much for making these free resources available to us!"</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+                            <img class="img-fluid rounded-circle mb-3" src="/assets/img/testimonials-3.jpg" alt="Sales 4" />
+                            <h5>Sales 4.</h5>
                             <p class="font-weight-light mb-0">"Thanks so much for making these free resources available to us!"</p>
                         </div>
                     </div>
