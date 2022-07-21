@@ -2,7 +2,7 @@
 $koneksi = "localhost";
 $username = "root";
 $password = "";
-$database = "projectta";
+$database = "ciptajayalestari";
 
 // Create connection
 $conn = new mysqli($koneksi, $username, $password, $database);
