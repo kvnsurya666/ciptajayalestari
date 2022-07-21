@@ -37,8 +37,8 @@ include "koneksi.php";
           <div class="card-body p-0">
             <!-- Nested Row within Card Body -->
             <div class="row">
-              <div class="col-lg-6 d-none d-lg-block">
-                <img src="/assets/img/logo ciptajayalestari.PNG" alt="Logo Cipta Jaya Lestari">
+              <div class="col-lg-6 d-none d-lg-block justify-content-center">
+                <img src="/assets/img/logo vertex.jpg" alt="Logo Cipta Jaya Lestari">
               </div>
               <div class="col-lg-6">
                 <div class="p-5">
