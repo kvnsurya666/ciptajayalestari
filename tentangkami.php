@@ -147,7 +147,7 @@
                 <img src="/assets/img/logo ciptajayalestari.PNG" style="margin-top: -10px" width="100px" />
               </a>
             </h2>
-            <h4><b>Metal working and machinery</b></h4>
+            <h4 style="color: red;"><b>Metalworking Tools and Machinery</b></h4>
           </div>
           <div class="col-md-4 footer-center">
             <div class="sign-grds">
