@@ -10,7 +10,7 @@ include "koneksi.php";
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Register Museum Teknoform</title>
+  <title>Admin Cipta Jaya Lestari</title>
 
   <!-- Custom fonts for this template-->
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
