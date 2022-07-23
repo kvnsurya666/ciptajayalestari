@@ -176,7 +176,7 @@
                     <div class="address-grid">
                         <div class="address-right">
                             <h6>Alamat</h6> 
-                            <p><i class="bi bi-house-door"></i>   Jalan Kenjeran 300 A/7 Surabaya, Surabaya, Jawa Timur - Jalan Kenjeran 300 A/7 Surabaya, Indonesia</p>
+                            <p><i class="bi bi-house-door"></i>   Jalan Kenjeran 300 Blok A-7 Surabaya, Jawa Timur, Indonesia</p>
                         </div>
                   <div class="clearfix"></div>
                     </div>
