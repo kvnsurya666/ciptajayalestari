@@ -133,7 +133,7 @@
                     </div>
                     <div class="col-lg-2">
                         <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-                            <img class="img-fluid rounded-circle mb-3" src="/assets/img/testimonials-3.jpg" alt="Sales 3" />
+                            <img class="img-fluid rounded-circle mb-3" src="/assets/img/testimonials-2.jpg" alt="Sales 3" />
                             <h5>Pak Ilyas</h5>
                             <div class="phone-domain">
                               <div style="padding: 6px 10px">
@@ -146,12 +146,12 @@
                     </div>
                     <div class="col-lg-2">
                         <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-                            <img class="img-fluid rounded-circle mb-3" src="/assets/img/testimonials-3.jpg" alt="Sales 4" />
+                            <img class="img-fluid rounded-circle mb-3" src="/assets/img/testimonials-2.jpg" alt="Sales 4" />
                             <h5>Pak Rochman</h5>
                             <div class="phone-domain">
                               <div style="padding: 6px 10px">
                                   <img src="/assets/img/whatsapp-original.png" alt="" style="margin-right: 5px; height: 30px; width: 30px" /><span class="" style="float: left; background-color: #25d366"></span>
-                                  <a target="_blank" href="https://api.whatsapp.com/send?phone=6281331637497&amp;text=Halo Pak Ilyas, Saya dapat nomor dari www.ciptajayalestari.id" class="nobor" style="font-size: 18px">
+                                  <a target="_blank" href="https://api.whatsapp.com/send?phone=6281331637497&amp;text=Halo Pak Rochman, Saya dapat nomor dari www.ciptajayalestari.id" class="nobor" style="font-size: 18px">
                                       <span class="hidden-md-down" style="color: #25d366">Chat Now</span></a>
                               </div>
                             </div>
@@ -159,12 +159,12 @@
                     </div>
                     <div class="col-lg-2">
                         <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-                            <img class="img-fluid rounded-circle mb-3" src="/assets/img/testimonials-3.jpg" alt="Sales 5" />
+                            <img class="img-fluid rounded-circle mb-3" src="/assets/img/testimonials-2.jpg" alt="Sales 5" />
                             <h5>Pak Dwiono</h5>
                             <div class="phone-domain">
                               <div style="padding: 6px 10px">
                                   <img src="/assets/img/whatsapp-original.png" alt="" style="margin-right: 5px; height: 30px; width: 30px" /><span class="" style="float: left; background-color: #25d366"></span>
-                                  <a target="_blank" href="https://api.whatsapp.com/send?phone=6285232777499&amp;text=Halo Pak Ilyas, Saya dapat nomor dari www.ciptajayalestari.id" class="nobor" style="font-size: 18px">
+                                  <a target="_blank" href="https://api.whatsapp.com/send?phone=6285232777499&amp;text=Halo Pak Dwiono, Saya dapat nomor dari www.ciptajayalestari.id" class="nobor" style="font-size: 18px">
                                       <span class="hidden-md-down" style="color: #25d366">Chat Now</span></a>
                               </div>
                             </div>
