@@ -178,11 +178,11 @@
           <div class="col-md-4 footer-center">
             <div class="sign-grds">
               <div class="col-md-5 sign-gd-one">
-                <h4>Hubungi <span>Kami</span></h4><br>
+                <h4>Contact <span>Us</span></h4><br>
                 <div class="address">
                   <div class="address-grid">
                     <div class="address-right">
-                      <h6>Layanan Pelanggan</h6>
+                      <h6>Office</h6>
                       <div class="phone-domain">
                         <i class="bi bi-telephone"></i>
                         <a href="tel:0313896920" class="nobor">031-3896920</a>
@@ -200,14 +200,14 @@
                     </div>
                     <div class="address-grid">
                         <div class="address-right">
-                            <h6>Kantor</h6> 
+                            <h6>Office</h6> 
                             <p><i class="bi bi-house-door"></i>   Jalan Kenjeran 300 Blok A-7 Surabaya, Jawa Timur, Indonesia</p>
                         </div>
                         <div class="clearfix"></div>
                     </div>
                     <div class="address-grid">
                         <div class="address-right">
-                          <h6>Gudang</h6> 
+                          <h6>Warehouse</h6> 
                           <p><i class="bi bi-building"></i>   Kompleks Pergudangan SiRIE S-7, Lingkar Timur Sidoarjo, Jawa Timur</p>
                         </div>
                       <div class="clearfix"></div>
