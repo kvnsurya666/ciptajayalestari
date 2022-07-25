@@ -40,7 +40,7 @@
                 <a class="nav-link active" href="index.html">Home</a>
               </li>
               <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="/views/katalog/produk.php" role="button" aria-expanded="false">Katalog</a>
+                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="/views/katalog/produk.php" role="button" aria-expanded="false">Catalogue</a>
                 <ul class="dropdown-menu">
                   <li><a class="dropdown-item" href="mesin.php">Machinary</a></li>
                   <li><a class="dropdown-item" href="machinetool.php">Machine Tool</a></li>
