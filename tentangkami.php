@@ -105,31 +105,44 @@
             <div class="container">
                 <h2 class="mb-5">Our Sales Team</h2>
                 <div class="row">
-                    <div class="col-lg-3">
+                    <div class="col-lg-2">
                         <div class="testimonial-item mx-auto mb-5 mb-lg-0">
                             <img class="img-fluid rounded-circle mb-3" src="/assets/img/testimonials-1.jpg" alt="Sales 1" />
                             <h5>Sales 1</h5>
-                            <p class="font-weight-light mb-0">"This is fantastic! Thanks so much guys!"</p>
+                            <div class="phone-domain">
+                              <div style="padding: 6px 10px">        
+                                  <img src="/assets/img/whatsapp.png" alt="" style="margin-right: 5px; height: 30px; width: 30px" /><span class="" style="float: left; background-color: #25d366"></span>
+                                  <a target="_blank" href="https://api.whatsapp.com/send?phone=6281335700084&amp;text=Halo Sales Counter, Saya dapat nomor dari www.ciptajayalestari.id" class="nobor" style="font-size: 18px">
+                                      <span class="hidden-md-down" style="color: #fff">Chat Now</span></a>
+                              </div>
+                            </div>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-lg-2">
                         <div class="testimonial-item mx-auto mb-5 mb-lg-0">
                             <img class="img-fluid rounded-circle mb-3" src="/assets/img/testimonials-2.jpg" alt="Sales 2" />
                             <h5>Sales 2</h5>
                             <p class="font-weight-light mb-0">"Bootstrap is amazing. I've been using it to create lots of super nice landing pages."</p>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-lg-2">
                         <div class="testimonial-item mx-auto mb-5 mb-lg-0">
                             <img class="img-fluid rounded-circle mb-3" src="/assets/img/testimonials-3.jpg" alt="Sales 3" />
                             <h5>Sales 3</h5>
                             <p class="font-weight-light mb-0">"Thanks so much for making these free resources available to us!"</p>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-lg-2">
                         <div class="testimonial-item mx-auto mb-5 mb-lg-0">
                             <img class="img-fluid rounded-circle mb-3" src="/assets/img/testimonials-3.jpg" alt="Sales 4" />
-                            <h5>Sales 4.</h5>
+                            <h5>Sales 4</h5>
+                            <p class="font-weight-light mb-0">"Thanks so much for making these free resources available to us!"</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+                            <img class="img-fluid rounded-circle mb-3" src="/assets/img/testimonials-3.jpg" alt="Sales 5" />
+                            <h5>Sales 5</h5>
                             <p class="font-weight-light mb-0">"Thanks so much for making these free resources available to us!"</p>
                         </div>
                     </div>
