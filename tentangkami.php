@@ -184,11 +184,8 @@
                     <div class="address-right">
                       <h6>Layanan Pelanggan</h6>
                       <div class="phone-domain">
-                        <div style="padding: 6px 10px">
-                          <img src="/assets/img/whatsapp.png" alt="" style="margin-right: 5px; height: 30px; width: 30px" /><span class="" style="float: left; background-color: #25d366"></span>
-                          <a target="_blank" href="https://api.whatsapp.com/send?phone=62313896920&amp;text=Halo Sales Counter, Saya dapat nomor dari www.ciptajayalestari.id" class="nobor" style="font-size: 18px">
-                            <span class="hidden-md-down" style="color: #fff">031-3896920</span></a>
-                        </div>
+                        <i class="bi bi-telephone"></i>
+                        <a href="tel:0313896920" class="nobor">031-3896920</a>
                       </div>
                     </div>
                     <div class="clearfix"></div>
