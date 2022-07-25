@@ -206,7 +206,14 @@
                             <h6>Alamat</h6> 
                             <p><i class="bi bi-house-door"></i>   Jalan Kenjeran 300 Blok A-7 Surabaya, Jawa Timur, Indonesia</p>
                         </div>
-                  <div class="clearfix"></div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="address-grid">
+                        <div class="address-right">
+                          <h6>Alamat Gudang</h6> 
+                          <p><i class="bi bi-building"></i>   Kompleks Pergudangan SiRIE S-7, Lingkar Timur Sidoarjo, Jawa Timur</p>
+                        </div>
+                      <div class="clearfix"></div>
                     </div>
                 </div>
               </div>
