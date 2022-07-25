@@ -113,7 +113,7 @@
                               <div style="padding: 6px 10px">        
                                   <img src="/assets/img/whatsapp.png" alt="" style="margin-right: 5px; height: 30px; width: 30px" /><span class="" style="float: left; background-color: #25d366"></span>
                                   <a target="_blank" href="https://api.whatsapp.com/send?phone=6281335700084&amp;text=Halo Sales Counter, Saya dapat nomor dari www.ciptajayalestari.id" class="nobor" style="font-size: 18px">
-                                      <span class="hidden-md-down" style="color: #fff">Chat Now</span></a>
+                                      <span class="hidden-md-down" style="color: #25d366">Chat Now</span></a>
                               </div>
                             </div>
                         </div>
