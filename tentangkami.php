@@ -26,7 +26,7 @@
    <nav class="navbar navbar-expand-lg sticky-top bg-light">
       <div class="container">
                  
-            <a class="navbar-brand" href="#" style="padding-top: 10px; padding-bottom: 10px">
+            <a class="navbar-brand" href="index.html" style="padding-top: 10px; padding-bottom: 10px">
               <img src="/assets/img/logo ciptajayalestari.PNG" alt="" width="100" height="50" />
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -37,19 +37,23 @@
           <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link" href="index.html">Home</a>
+                <a class="nav-link active" href="index.html">Home</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="/views/katalog/produk.php" role="button" aria-expanded="false">Katalog</a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="mesin.php">Mesin</a></li>
-                  <li><a class="dropdown-item" href="oli.php">Oli</a></li>
-                  <li><a class="dropdown-item" href="aksesoris.php">Aksesoris</a></li>
-                  <li><a class="dropdown-item" href="jasa.php">Jasa</a></li>
+                  <li><a class="dropdown-item" href="mesin.php">Machinary</a></li>
+                  <li><a class="dropdown-item" href="machinetool.php">Machine Tool</a></li>
+                  <li><a class="dropdown-item" href="aksesoris.php">Accesories</a></li>
+                  <li><a class="dropdown-item" href="cuttingtool.php">Cutting Tool</a></li>
+                  <li><a class="dropdown-item" href="measuringtool.php">Measuring Tool</a></li>
+                  <li><a class="dropdown-item" href="handtool.php">Hand Tool</a></li>
+                  <li><a class="dropdown-item" href="cuttingcoolant.php">Cutting Coolant</a></li>
+                  <li><a class="dropdown-item" href="abrasive.php">Abrasive</a></li>
                 </ul>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" href="tentangkami.php">Tentang Kami</a>
+                <a class="nav-link" href="tentangkami.php">About Us</a>
               </li>
             </ul>
           </div>
@@ -169,7 +173,7 @@
         <div class="row">
           <div class="col-md-4">
             <h2>
-              <a href="/">
+              <a href="index.html">
                 <img src="/assets/img/logo ciptajayalestari.PNG" style="margin-top: -10px" width="100px" />
               </a>
             </h2>
