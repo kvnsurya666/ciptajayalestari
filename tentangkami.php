@@ -85,20 +85,19 @@
         </button>
       </div>
     </div>
+
     <!-- Company Profile -->
     <section id="about">
             <div class="container px-4" style="padding-top: 20px;">
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-8">
                         <h2>Profil Perusahaan</h2>
-                        <p class="lead">CV. CIPTA JAYA LESTARI merupakan Agen Resmi penjualan Mesin Mesin Merk Vertex.</p>
-                        <p class="lead">Selain itu kami juga sebagai Distributor / Supplier berbagai mesin mesin untuk memenuhi kebutuhan industri Anda, seperti :</p>
-                        <ul>
-                            <li>Mesin CNC Milling</li>
-                            <li>Mesin Bubut</li>
-                            <li>Mesin Bubut CNC</li>
-                            <li>VERTEX TOOLS</li>
-                        </ul>
+                        <p class="lead">CV. CIPTA JAYA LESTARI berdiri sejak tahun 1998 kami berlokasi di Jalan Kenjeran 300 Ruko Center Point A-7, Surabaya sebagai showroom, office, dan warehouse dengan spirit dan manajemen baru.</p>
+                        <p class="lead">Kami selalu memberikan pelayanan yang nyaman, aman, dan terpercaya pada customer kami.</p>
+                        <p class="lead">Banyak item tersedia dalam ready stock dan fast delivery.</p>
+                        <p class="lead">Kami juga dibackup engineers yang berpengalaman untuk mengatasi masalah anda serta melakukan maintenance mesin - mesin yang kami jual.</p>
+                        <p class="lead">Kami melayani dengan prinsip <b>3S</b> (<b>S</b>ales, <b>S</b>ervice, dan <b>S</b>pare Part)</p>
+                        <p class="lead">Kami telah memasok berbagai metalworking machine baik CNC maupun konvensional juga aksesoris mesin, cutting tools, hand tools, abrasives, dan equipment yang berasal dari mancanegara, Germany, Swiss, Japan, Taiwan, dll. Dengan kualitas yang bermutu tinggi.</p>
                     </div>
                 </div>
             </div>
@@ -205,14 +204,14 @@
                     <div class="address-grid">
                         <div class="address-right">
                             <h6>Office</h6> 
-                            <p><i class="bi bi-house-door"></i>   Jalan Kenjeran 300 Blok A-7 Surabaya, Jawa Timur, Indonesia</p>
+                            <p><i class="bi bi-house-door"></i>   Jalan Kenjeran 300 Blok A-7 Surabaya, Jawa Timur, 60135, Indonesia</p>
                         </div>
                         <div class="clearfix"></div>
                     </div>
                     <div class="address-grid">
                         <div class="address-right">
                           <h6>Warehouse</h6> 
-                          <p><i class="bi bi-building"></i>   Kompleks Pergudangan SiRIE S-7, Lingkar Timur Sidoarjo, Jawa Timur</p>
+                          <p><i class="bi bi-building"></i>   Kompleks Pergudangan SiRIE S-7, Lingkar Timur Sidoarjo, Jawa Timur, Indonesia</p>
                         </div>
                       <div class="clearfix"></div>
                     </div>
