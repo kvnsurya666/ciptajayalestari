@@ -123,7 +123,7 @@
                     </div>
                     <div class="col-lg-3">
                         <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-                            <img class="img-fluid rounded-circle mb-3" src="/assets/img/testimonials-2.jpg" alt="Sales 2" />
+                            <img class="img-fluid rounded-circle mb-3" src="/assets/img/Sales/sales2.jpg" alt="Sales 2" />
                             <h5>Pak Ilyas</h5>
                             <div class="phone-domain">
                               <div style="padding: 6px 10px">
@@ -136,7 +136,7 @@
                     </div>
                     <div class="col-lg-3">
                         <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-                            <img class="img-fluid rounded-circle mb-3" src="/assets/img/testimonials-2.jpg" alt="Sales 3" />
+                            <img class="img-fluid rounded-circle mb-3" src="/assets/img/Sales/sales3.jpg" alt="Sales 3" />
                             <h5>Pak Rochman</h5>
                             <div class="phone-domain">
                               <div style="padding: 6px 10px">
