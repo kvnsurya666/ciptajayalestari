@@ -110,7 +110,7 @@
                 <div class="row">
                     <div class="col-lg-3">
                         <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-                            <img class="img-fluid rounded-circle mb-3" src="/assets/img/Sales/sales1.jpg alt="Sales 1" />
+                            <img class="img-fluid rounded-circle mb-3" src="/assets/img/Sales/edi.jpg alt="Sales 1" />
                             <h5>Pak Edi</h5>
                             <div class="phone-domain">
                               <div style="padding: 6px 10px">
