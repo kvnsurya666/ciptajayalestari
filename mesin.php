@@ -15,10 +15,13 @@
     <!-- Core theme CSS (includes Bootstrap)-->
     <link rel="stylesheet" href="/css/styles.css" />
     <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/shop.css" />
+    <link rel="stylesheet" href="/css/pagination.css" />
     <link rel="stylesheet" href="/css/bootstrap.css" />
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link rel="stylesheet" href="/assets/font-awesome/font-awesome.css" />
     <link rel="stylesheet" href="/assets/font-awesome/font-awesome.min.css" />
+    
   </head>
   <body>
     <!-- Navigation-->
@@ -75,7 +78,7 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                
+
             </div>
         </div>
     </div>
