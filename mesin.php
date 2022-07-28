@@ -56,10 +56,10 @@
       </div>
     </nav>
 
-    <div class="container">
+    <div class="container-fluid">
         <div class="row">
             <div class="col">
-                <img src="/assets/img" alt="">
+                <img src="/assets/img/Banner/machine.jpg" alt="Banner Mesin">
             </div>
         </div>
     </div>
