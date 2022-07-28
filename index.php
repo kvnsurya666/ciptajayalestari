@@ -24,7 +24,7 @@
     <!-- Navigation-->
     <nav class="navbar navbar-expand-lg sticky-top bg-light">
       <div class="container">
-        <a class="navbar-brand" href="#" style="padding-top: 10px; padding-bottom: 10px">
+        <a class="navbar-brand" href="index.php" style="padding-top: 10px; padding-bottom: 10px">
           <img src="/assets/img/logo ciptajayalestari.PNG" alt="" width="150" height="75" />
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -34,7 +34,7 @@
         <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link active" href="index.html">Home</a>
+              <a class="nav-link active" href="index.php">Home</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="/views/katalog/produk.php" role="button" aria-expanded="false">Catalogue</a>
@@ -361,7 +361,7 @@
         <div class="row">
           <div class="col-md-4">
             <h2>
-              <a href="index.html">
+              <a href="index.php">
                 <img src="/assets/img/logo ciptajayalestari.PNG" style="margin-top: -10px" width="100px" />
               </a>
             </h2>
