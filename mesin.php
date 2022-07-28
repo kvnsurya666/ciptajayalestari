@@ -56,6 +56,13 @@
       </div>
     </nav>
 
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <img src="/assets/img" alt="">
+            </div>
+        </div>
+    </div>
     <!-- Footer -->
     <div class="footer_agileinfo_w3">
       <div class="footer_inner_info_w3ls_agileits">
