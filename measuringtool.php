@@ -65,11 +65,11 @@
      <div class="container-fluid">
         <div class="row">
             <div class="col">
-                <img src="/assets/img/Banner/banner measuringtool.jpg" alt="Banner Measuring tool">
+                <img src="/assets/img/Banner/banner measuringtool.jpg" alt="Banner Measuring tool" style="width: 1500px; height: 500px;>
             </div>
         </div>
     </div>
-    
+
     <!-- Footer -->
     <div class="footer_agileinfo_w3">
       <div class="footer_inner_info_w3ls_agileits">
