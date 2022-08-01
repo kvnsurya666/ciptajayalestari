@@ -64,7 +64,7 @@
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col">
+            <div class="col" style="padding-bottom: 20px;">
                 <img src="/assets/img/Banner/banner measuringtool.jpg" alt="Banner Measuring tool">
             </div>
         </div>
@@ -77,7 +77,7 @@
           <h2>Promo Bulan ini</h2>
         </div>    
       </div>
-      <div class="row">
+      <div class="row" style="padding: 20px;">
           <div class="card col-md-3" style="width: 20rem; padding-right: 10px">
               <img src="/assets/img/Logo/weida.png" class="card-img-top" alt="WEIDA" />       
           </div>
@@ -94,7 +94,7 @@
               <img src="/assets/img/Logo/bositools.png" class="card-img-top" alt="BOSI TOOLS" />
           </div>
       </div>
-      <div class="row">
+      <div class="row" style="padding: 20px;">
           <div class="card col-md-3" style="width: 20rem; padding-right: 10px">
               <img src="/assets/img/Logo/J&W.jpg" class="card-img-top" alt="J&W" />       
           </div>
