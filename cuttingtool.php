@@ -62,6 +62,13 @@
       </div>
     </nav>
 
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col">
+                <img src="/assets/img/Banner/banner cutting tool.jpg" alt="Banner Cutting tool">
+            </div>
+        </div>
+    </div>
 
     <!-- Footer -->
     <div class="footer_agileinfo_w3">

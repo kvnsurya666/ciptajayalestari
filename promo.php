@@ -65,7 +65,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col">
-                <img src="/assets/img/Banner/machine.jpg" alt="Banner Mesin">
+                <img src="/assets/img/Banner/banner measuringtool.jpg" alt="Banner Measuring tool">
             </div>
         </div>
     </div>
