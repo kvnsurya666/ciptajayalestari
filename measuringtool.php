@@ -62,10 +62,10 @@
       </div>
     </nav>
 
-     <div class="container-fluid">
+     <div class="container">
         <div class="row">
             <div class="col">
-                <img src="/assets/img/Banner/banner measuringtool.jpg" alt="Banner Measuring tool" style="width: 1500px; height: 500px;">
+                <img src="/assets/img/Banner/banner measuringtool.jpg" alt="Banner Measuring tool" style="height: 500px;">
             </div>
         </div>
     </div>
