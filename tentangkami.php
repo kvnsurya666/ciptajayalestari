@@ -23,43 +23,45 @@
   <body>
     <!-- Navigation-->
 
-   <nav class="navbar navbar-expand-lg sticky-top bg-light">
+  <nav class="navbar navbar-expand-lg sticky-top bg-light">
       <div class="container">
-                 
-            <a class="navbar-brand" href="index.php" style="padding-top: 10px; padding-bottom: 10px">
-              <img src="/assets/img/logo ciptajayalestari.PNG" alt="" width="150" height="75" />
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-       
+        <a class="navbar-brand" href="index.php" style="padding-top: 10px; padding-bottom: 10px">
+          <img src="/assets/img/logo ciptajayalestari.PNG" alt="" width="150" height="75" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
 
-          <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
-            <ul class="navbar-nav">
-              <li class="nav-item">
-                <a class="nav-link active" href="index.php">Home</a>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="/views/katalog/produk.php" role="button" aria-expanded="false">Catalogue</a>
-                <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="mesin.php">Machinery</a></li>
-                  <li><a class="dropdown-item" href="machinetool.php">Machine Tool</a></li>
-                  <li><a class="dropdown-item" href="aksesoris.php">Accesories</a></li>
-                  <li><a class="dropdown-item" href="cuttingtool.php">Cutting Tool</a></li>
-                  <li><a class="dropdown-item" href="measuringtool.php">Measuring Tool</a></li>
-                  <li><a class="dropdown-item" href="handtool.php">Hand Tool</a></li>
-                  <li><a class="dropdown-item" href="cuttingcoolant.php">Cutting Coolant</a></li>
-                  <li><a class="dropdown-item" href="abrasive.php">Abrasive</a></li>
-                </ul>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="tentangkami.php">About Us</a>
-              </li>
-            </ul>
-          </div>
-        
+        <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="index.php">Home</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="/views/katalog/produk.php" role="button" aria-expanded="false">Catalogue</a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="mesin.php">Machinery</a></li>
+                <li><a class="dropdown-item" href="machinetool.php">Machine Tool Accesories</a></li>
+                <li><a class="dropdown-item" href="cuttingtool.php">Cutting Tool</a></li>
+                <li><a class="dropdown-item" href="measuringtool.php">Measuring Tool</a></li>
+                <li><a class="dropdown-item" href="handtool.php">Hand Tool</a></li>
+                <li><a class="dropdown-item" href="cuttingcoolant.php">Cutting Coolant</a></li>
+                <li><a class="dropdown-item" href="abrasive.php">Abrasive</a></li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="tentangkami.php">About Us</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="promo.php">Promo</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="newproducts.php">New Products</a>
+            </li>
+          </ul>
+        </div>
       </div>
-  </nav>
+    </nav>
 
     <!-- Masthead-->
     <div class="container-fluid">

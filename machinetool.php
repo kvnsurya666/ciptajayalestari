@@ -51,6 +51,12 @@
             <li class="nav-item">
               <a class="nav-link" href="tentangkami.php">About Us</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link" href="promo.php">Promo</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="newproducts.php">New Products</a>
+            </li>
           </ul>
         </div>
       </div>
