@@ -102,40 +102,38 @@
         <div class="carousel-inner">
           <div class="carousel-item active">
             <div class="row justify-content-center" style="padding: 20px">
-              <div class="card col-md-4" style="width: 20rem; padding-right: 10px">
-                <a href="mesin.php">
+              <div class="card col-md-3" style="width: 20rem; padding-right: 10px">
                   <img src="/assets/img/Logo/weida.png" class="card-img-top" alt="WEIDA" />
-                </a>
               </div>
 
-              <div class="card col-md-4" style="width: 20rem; padding-right: 10px">
+              <div class="card col-md-3" style="width: 20rem; padding-right: 10px">
                 <img src="/assets/img/Logo/dixon.jpg" class="card-img-top" alt="DIXON" />
               </div>
 
-              <div class="card col-md-4" style="width: 20rem; padding-right: 10px">
+              <div class="card col-md-3" style="width: 20rem; padding-right: 10px">
                 <img src="/assets/img/Logo/fullmark.jpg" class="card-img-top" alt="FULLMARK" />
               </div>
 
-              <div class="card col-md-4" style="width: 20rem; padding-right: 10px">
+              <div class="card col-md-3" style="width: 20rem; padding-right: 10px">
                 <img src="/assets/img/Logo/bositools.png" class="card-img-top" alt="BOSI TOOLS" />
               </div>
             </div>
           </div>
           <div class="carousel-item">
             <div class="row justify-content-center" style="padding: 20px">
-              <div class="card col-md-4" style="width: 20rem; padding-right: 10px">
+              <div class="card col-md-3" style="width: 20rem; padding-right: 10px">
                 <img src="/assets/img/Logo/J&W.jpg" class="card-img-top" alt="J&W" />
               </div>
 
-              <div class="card col-md-4" style="width: 20rem; padding-right: 10px">
+              <div class="card col-md-3" style="width: 20rem; padding-right: 10px">
                 <img src="/assets/img/Logo/Besdia.jpg" class="card-img-top" alt="Besdia" />
               </div>
 
-              <div class="card col-md-4" style="width: 20rem; padding-right: 10px">
+              <div class="card col-md-3" style="width: 20rem; padding-right: 10px">
                 <img src="/assets/img/Logo/Carmar.jpg" class="card-img-top" alt="CarMar" />
               </div>
 
-              <div class="card col-md-4" style="width: 20rem; padding-right: 10px">
+              <div class="card col-md-3" style="width: 20rem; padding-right: 10px">
                 <img src="/assets/img/Logo/Arntz.jpg" class="card-img-top" alt="Arntz" />
               </div>
             </div>
@@ -161,38 +159,38 @@
           </div>
           <div class="carousel-item">
             <div class="row justify-content-center" style="padding: 20px">
-              <div class="card col-md-4" style="width: 20rem; padding-right: 10px">
+              <div class="card col-md-3" style="width: 20rem; padding-right: 10px">
                 <img src="/assets/img/Logo/NACHI.jpg" class="card-img-top" alt="NACHI" />
               </div>
 
-              <div class="card col-md-4" style="width: 20rem; padding-right: 10px">
+              <div class="card col-md-3" style="width: 20rem; padding-right: 10px">
                 <img src="/assets/img/Logo/NIKKEN.jpg" class="card-img-top" alt="NIKKEN" />
               </div>
 
-              <div class="card col-md-4" style="width: 20rem; padding-right: 10px">
+              <div class="card col-md-3" style="width: 20rem; padding-right: 10px">
                 <img src="/assets/img/Logo/ORIENTCRAFT.png" class="card-img-top" alt="ORIENTCRAFT" />
               </div>
 
-              <div class="card col-md-4" style="width: 20rem; padding-right: 10px">
+              <div class="card col-md-3" style="width: 20rem; padding-right: 10px">
                 <img src="/assets/img/Logo/SHAN GIN.jpg" class="card-img-top" alt="SHAN GIN" />
               </div>
             </div>
           </div>
           <div class="carousel-item">
             <div class="row justify-content-center" style="padding: 20px">
-              <div class="card col-md-4" style="width: 20rem; padding-right: 10px">
+              <div class="card col-md-3" style="width: 20rem; padding-right: 10px">
                 <img src="/assets/img/Logo/Mitutoyo.png" class="card-img-top" alt="Mitutoyo" />
               </div>
 
-              <div class="card col-md-4" style="width: 20rem; padding-right: 10px">
+              <div class="card col-md-3" style="width: 20rem; padding-right: 10px">
                 <img src="/assets/img/Logo/KODEX.png" class="card-img-top" alt="KODEX" />
               </div>
 
-              <div class="card col-md-4" style="width: 20rem; padding-right: 10px">
+              <div class="card col-md-3" style="width: 20rem; padding-right: 10px">
                 <img src="/assets/img/Logo/SUPERSONIC.jpg" class="card-img-top" alt="SUPERSONIC" />
               </div>
 
-              <div class="card col-md-4" style="width: 20rem; padding-right: 10px">
+              <div class="card col-md-3" style="width: 20rem; padding-right: 10px">
                 <img src="/assets/img/Logo/LAMINA.jpg" class="card-img-top" alt="LAMINA" />
               </div>
             </div>
