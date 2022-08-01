@@ -65,7 +65,7 @@
      <div class="container-fluid">
         <div class="row">
             <div class="col">
-                <img src="/assets/img/Banner/banner measuringtool.jpg" alt="Banner Measuring tool" style="width:fit-content; height: 500px;">
+                <img src="/assets/img/Banner/banner measuringtool.jpg" alt="Banner Measuring tool">
             </div>
         </div>
     </div>
