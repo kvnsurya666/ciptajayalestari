@@ -62,7 +62,7 @@
       </div>
     </nav>
 
-     <div class="container">
+     <div class="container-fluid">
         <div class="row">
             <div class="col">
                 <img src="/assets/img/Banner/banner measuringtool.jpg" alt="Banner Measuring tool" style="height: 500px;">
