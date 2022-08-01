@@ -65,7 +65,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col">
-                <img src="/assets/img/Banner/banner cutting tool.jpg" alt="Banner Cutting tool" style="height: 500px;">
+                <img src="/assets/img/Banner/banner cutting tool.jpg" alt="Banner Cutting tool" style="width:fit-content; height: 500px;">
             </div>
         </div>
     </div>
