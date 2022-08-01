@@ -15,13 +15,10 @@
     <!-- Core theme CSS (includes Bootstrap)-->
     <link rel="stylesheet" href="/css/styles.css" />
     <link rel="stylesheet" href="/css/style.css" />
-    <link rel="stylesheet" href="/css/shop.css" />
-    <link rel="stylesheet" href="/css/pagination.css" />
     <link rel="stylesheet" href="/css/bootstrap.css" />
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link rel="stylesheet" href="/assets/font-awesome/font-awesome.css" />
     <link rel="stylesheet" href="/assets/font-awesome/font-awesome.min.css" />
-    
   </head>
   <body>
     <!-- Navigation-->
@@ -37,7 +34,7 @@
         <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link active" href="index.php">Home</a>
+              <a class="nav-link" href="index.php">Home</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="/views/katalog/produk.php" role="button" aria-expanded="false">Catalogue</a>
@@ -54,38 +51,26 @@
             <li class="nav-item">
               <a class="nav-link" href="tentangkami.php">About Us</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link" href="promo.php">Promo</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="newproducts.php">New Products</a>
+            </li>
           </ul>
         </div>
       </div>
     </nav>
 
-    <!-- Banner -->
     <div class="container-fluid">
         <div class="row">
             <div class="col">
                 <img src="/assets/img/Banner/machine.jpg" alt="Banner Mesin">
-                <nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='%236c757d'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb">
-                    <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Catalogue</li>
-                        <li class="breadcrumb-item active" aria-current="page">Machinery</li>
-                    </ol>
-                </nav>
             </div>
         </div>
     </div>
 
-<div class="container">
-    <div class="row">
-        <div class="col">
-
-	
-		
-    
-        </div>
-    </div>
-</div>
-    <!-- Footer -->
+<!-- Footer -->
     <div class="footer_agileinfo_w3">
       <div class="footer_inner_info_w3ls_agileits">
         <div class="row">

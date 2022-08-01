@@ -51,6 +51,12 @@
             <li class="nav-item">
               <a class="nav-link" href="tentangkami.php">About Us</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link" href="promo.php">Promo</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="newproducts.php">New Products</a>
+            </li>
           </ul>
         </div>
       </div>
@@ -202,82 +208,6 @@
         </button>
       </div>
     </div>
-
-    <!-- VERTEX TOOLS Carousel -->
-
-    <!-- <div class="container">
-          <div class="row" style="padding-top: 20px;">
-            <div class="col-12">
-              <div class="row head-panel align-items-center d-flex justify-content-between">
-              <div class="col-8 col-md-9 head-panel__left">
-                <h2 class="head-panel__title">VERTEX TOOLS</h2>
-              </div>
-            </div>
-            </div> 
-          </div>
-            <div id="carouselVERTEXTOOLS" class="carousel slide" data-bs-ride="carousel">
-              <div class="carousel-inner">
-                <div class="carousel-item active">
-                  <div class="row justify-content-center" style="padding: 20px;">
-                    <div class="card col-md-4" style="width: 20rem; padding-right: 10px;">
-                      <a href="aksesoris.php">
-                        <img src="/assets/img/VERTEX TOOLS/MESIN DRILL GRINDER.jpg" class="card-img-top" alt="MESIN DRILL GRINDER">
-                      </a> 
-                      <div class="card-body">
-                        <h4 class="card-text">MESIN DRILL GRINDER</h4>
-                      </div>
-                    </div>
-
-                    <div class="card col-md-4" style="width: 20rem; padding-right: 10px;">
-                      <a href="aksesoris.php">
-                        <img src="/assets/img/VERTEX TOOLS/Vertex Keyless Drill Chuck.jpg" class="card-img-top" alt="Vertex Keyless Drill Chuck">
-                      </a>
-                      <div class="card-body">
-                        <h4 class="card-text">VERTEX Keyless Drill Chuck</h4>
-                      </div>
-                    </div>
-              
-                    <div class="card col-md-4" style="width: 20rem; padding-right: 10px;">
-                      <a href="aksesoris.php">
-                        <img src="/assets/img/VERTEX TOOLS/VERTEX MAGNETIC V BLOCK.jpg" class="card-img-top" alt="VERTEX MAGNETIC V BLOCK.jpg">
-                      </a>
-                      <div class="card-body">
-                        <h4 class="card-text">VERTEX MAGNETIC V BLOCK</h4>
-                      </div>
-                    </div>
-                </div>
-                </div>
-                <div class="carousel-item">
-                  <div class="row justify-content-center" style="padding: 20px;">
-                    <div class="card col-md-6" style="width: 20rem; padding-right: 10px;">
-                      <a href="aksesoris.php">
-                        <img src="/assets/img/VERTEX TOOLS/VERTEX PIN GAUGE.jpg" class="card-img-top" alt="VERTEX PIN GAUGE">
-                      </a>
-                      <div class="card-body">
-                        <h4 class="card-text">VERTEX PIN GAUGE</h4>
-                      </div>
-                    </div>
-                    <div class="card col-md-6" style="width: 20rem; padding-right: 10px;">
-                        <a href="aksesoris.php">
-                          <img src="/assets/img/VERTEX TOOLS/VERTEX SCREW JACK.jpg" class="card-img-top" alt="VERTEX SCREW JACK">
-                        </a>
-                      <div class="card-body">
-                        <h4 class="card-text">VERTEX SCREW JACK</h4>
-                      </div>
-                    </div>
-                  </div>
-                </div> 
-              </div>
-              <button class="carousel-control-prev" type="button" data-bs-target="#carouselVERTEXTOOLS" data-bs-slide="prev">
-                    <i class="bi bi-chevron-left" style="color: #067fe2;" aria-hidden="true"></i>
-                  <span class="visually-hidden">Previous</span>
-              </button>
-              <button class="carousel-control-next" type="button" data-bs-target="#carouselVERTEXTOOLS" data-bs-slide="next">
-                    <i class="bi bi-chevron-right" style="color: #067fe2;" aria-hidden="true"></i>
-                  <span class="visually-hidden">Next</span>
-              </button>
-            </div>                           
-    </div> -->
 
     <!-- Image Showcases-->
     <section class="showcase">
