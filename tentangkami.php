@@ -104,7 +104,7 @@
     </section>
 
     <!-- Our Team Showcase -->
-   <section class="testimonials text-center bg-light">
+    <section class="testimonials text-center bg-light">
             <div class="container">
                 <h2 class="mb-5">Our Sales Team</h2>
                 <div class="row">
@@ -162,7 +162,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+    </section>
 
     
 
