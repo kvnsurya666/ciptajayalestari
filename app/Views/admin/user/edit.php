@@ -55,7 +55,7 @@
             </div>
             <div class="col-md-6 col-12">
               <div class="form-group">
-                <label>Usename <strong class="text-danger">*</strong></label>
+                <label>Username <strong class="text-danger">*</strong></label>
                 <input type="text" class="form-control <?= $validation->hasError('username') ? 'is-invalid' : null ?>" name="username">
                 <div class="invalid-feedback">
                   <?= $validation->getError('username'); ?>
