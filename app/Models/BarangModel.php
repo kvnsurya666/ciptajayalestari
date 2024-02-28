@@ -22,15 +22,6 @@ class BarangModel extends Model
         $query = $builder->get();
         return $query->getResult();
     }
-    function getMachinery()
-    {
-        $builder = $this->db->table('barang');
-        $builder->join('merk', 'merk.id_merk = barang.id_merk');
-        $builder->join('kategori', 'kategori.id_kategori = barang.id_kategori');
-        $builder->where('barang.id_kategori = 1');
-        $query = $builder->get();
-        return $query->getResult();
-    }
 
     function getPageMachinery($num)
     {
